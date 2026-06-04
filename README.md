@@ -33,7 +33,7 @@ How to Run
 
 Compile:
 ```bash
-g++ library_managment_system.cpp -o library
+g++ library_management_system.cpp -o library
 ```
 
 Run:
